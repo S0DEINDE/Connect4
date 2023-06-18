@@ -139,5 +139,8 @@ def main():
             display(rows, cols, board)
             break
 
+        print("~~~~~ THANKS FOR USING MY PROGRAM ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+        print()
+
 
 main()
